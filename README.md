@@ -245,4 +245,4 @@
 
 ## HABILIDADES INFORMÁTICAS Y OTRAS
 
-(Detalle de habilidades no especificado)
+- FrontEnd Devoloper
