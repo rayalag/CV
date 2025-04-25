@@ -1,2 +1,9 @@
-# CV
-Curriculum Vitae
+# Curriculum Vitae
+
+## Experiencia profesional
+
+## Experiencia Docente
+
+## Formación Médica
+
+## 
